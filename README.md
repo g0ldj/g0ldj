@@ -5,7 +5,7 @@ Check out the projects I have created.
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation] (https://github.com/g0ldj/Vulnerability-Management-Program/**
+- **https://github.com/g0ldj/Vulnerability-Management-Program/**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
