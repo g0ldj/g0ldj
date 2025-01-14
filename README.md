@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/pryorjjordan/">g0ldj</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-Check out projects I have created.
+Check out the projects I have created.
 
 
 ## ⚠️ Vulnerability Management Projects
