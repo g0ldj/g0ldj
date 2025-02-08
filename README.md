@@ -3,10 +3,13 @@
 Check out the projects I have created.
 
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ Vulnerability Management Project
 
 - **https://github.com/g0ldj/Vulnerability-Management-Program/**
+-------------------------------------------------------------------------------------------------------------------
+## ⚠️ Threat Hunting w/ Sentinel Project
 
+- **https://github.com/g0ldj/threat-hunting-scenario-tor/**
 
 
 
